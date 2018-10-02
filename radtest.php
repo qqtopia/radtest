@@ -1,4 +1,8 @@
 <?php
+printf
+  
+ceho dev
+
 echo myrepo
 
 echo hello lun
